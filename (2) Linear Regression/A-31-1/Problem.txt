@@ -1,0 +1,12 @@
+Problem-A-31-1-Linear Regression
+Solve the Linear Regression algorithm of M.L using the given
+dataset father_son.csv
+1) input feature is Father's height and output variable is Son's
+height
+2) split the data into training and testing parts:
+ 80% for training and 20% for testing.
+3) Execute your program and note down the following points:
+ i) accuracy
+ ii) predict son height by giving fathers height as 63,55,71.3
+ iii) try new prediction by giving unknown inputs to the model
+Upload your program to Google Classroom

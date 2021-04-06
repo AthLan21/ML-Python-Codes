@@ -1,0 +1,12 @@
+1)      Solve the hello world of M.L using the given dataset iris.csv
+
+2)      The target variable is species.
+
+3)      Split the data into training and testing parts : 80% for training and 20% for testing.
+
+4)      Prediction species for feature matrix :
+
+[5.1,3.5,1.4,0.2]
+
+
+Submit this source code to the google classroom.

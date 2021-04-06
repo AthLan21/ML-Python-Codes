@@ -1,0 +1,19 @@
+1)      Solve the KNN of M.L using the given dataset play.csv
+
+2)      The target variable is Play
+
+3)      Split the data into training and testing parts : 80% for training and 20% for testing.
+
+4)      Note down the output of your program for the following :
+
+i)                    Accuracy
+
+ii)                  Confusion Matrix
+
+iii)                Prediction Play for feature matrix :
+
+[1,2,2,1]
+
+5) Write these values within comments at the end of your source code.
+
+6) Submit this source code to the google classroom.

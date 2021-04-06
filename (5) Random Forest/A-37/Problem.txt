@@ -1,0 +1,19 @@
+1)      Solve the Random Forest algorithm of M.L using the given dataset online_shoppers_intention.csv
+
+2)      The target variable is Revenue
+
+3)      Split the data into training and testing parts : 80% for training and 20% for testing.
+
+4)      Note down the output of your program for the following :
+
+i)                    Accuracy
+
+ii)                  Confusion Matrix
+
+iii)                Prediction Revenue for feature matrix :
+
+[0.0,0.0,0.0,0.0,0.1,0.0,0.5,0.2,0.0,0.0,2,1,1,1,1,2,0] 
+
+5) Write these values within comments at the end of your source code.
+
+6) Submit this source code to the google classroom.

@@ -1,0 +1,14 @@
+Case Study -4-SVM
+1) Solve the SVM of M.L using the given dataset avocado.csv
+2) The target variable is Type
+3) Split the data into training and testing parts : 80% for
+training and 20% for testing.
+4) Note down the output of your program for the following :
+i) Accuracy
+ii) Confusion Matrix
+iii) Prediction Type for feature matrix :
+[1.33,64236.62,1036.74,54454.85,48.16,8696.87,8603.62
+0,0,0]
+ 5) Write these values within comments at the end of your
+source code.
+6) Submit the source code to the google classroom.
